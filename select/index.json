@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "トキメキ NEW WORLD",
+  "base_artist": "Jams Collection",
+  "createdAt": "2026-02-06T06:40:13.049065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トキメキ",
+      "artist": "上原れな",
+      "has_synced": true,
+      "path": "select/01_トキメキ_上原れな.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トキメキ",
+      "artist": "Uehara, Rena",
+      "has_synced": true,
+      "path": "select/02_トキメキ_Uehara,_Rena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トキメキ",
+      "artist": "Lucie, Too",
+      "has_synced": true,
+      "path": "select/03_トキメキ_Lucie,_Too.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トキメキ",
+      "artist": "LamazeP",
+      "has_synced": false,
+      "path": "select/04_トキメキ_LamazeP.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トキメキ",
+      "artist": "ラマーズP",
+      "has_synced": false,
+      "path": "select/05_トキメキ_ラマーズP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メイド・イン・トキメキ♪",
+      "artist": "Ra*bits/仁兎なずな(CV.米内佑希)、天満光(CV.池田純矢)、真白友也(CV.比留間俊哉)、紫之創(CV.高坂知也)",
+      "has_synced": true,
+      "path": "select/06_メイド・イン・トキメキ♪_Ra_bits_仁兎なずな(CV.米内佑希)、天満光(CV.池田純矢)、真白友也(CV.比留間俊哉)、紫之創(CV.高坂知也).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tokimeki - トキメキ",
+      "artist": "LamazeP",
+      "has_synced": false,
+      "path": "select/07_Tokimeki_-_トキメキ_LamazeP.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トキメキ MY HEART",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/08_トキメキ_MY_HEART_春奈るな.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トキメキ MY HEART",
+      "artist": "Haruna Luna",
+      "has_synced": false,
+      "path": "select/09_トキメキ_MY_HEART_Haruna_Luna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "トキメキ＊リベリエ -アニメ Re:アレンジ Ver.-",
+      "artist": "μ(CV.上田麗奈)",
+      "has_synced": true,
+      "path": "select/10_トキメキ_リベリエ_-アニメ_Re_アレンジ_Ver.-_μ(CV.上田麗奈).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "トキメキ*リベリエ",
+      "artist": "スイートP（CV 新田恵海）",
+      "has_synced": true,
+      "path": "select/11_トキメキ_リベリエ_スイートP(CV_新田恵海).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "トキメキ MY HEART",
+      "artist": "Luna Haruna",
+      "has_synced": false,
+      "path": "select/12_トキメキ_MY_HEART_Luna_Haruna.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トキメキ NEW WORLD",
+      "artist": "Jams Collection",
+      "has_synced": false,
+      "path": "select/pl_01_トキメキ_NEW_WORLD_Jams_Collection.txt"
+    }
+  ]
+}
